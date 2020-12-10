@@ -95,3 +95,5 @@ foreach(TypeDef type in md.Types)
 }
 md.Write("ObfuscatedApp.exe");
 ```
+
+### Discord Skengdo#8173
